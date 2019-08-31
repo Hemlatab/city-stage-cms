@@ -3,7 +3,7 @@ title: REIMAGINING THE URBAN CITYSCAPE!!
 subtitle: Supporting the organisations that experiment with repurposing city street
 image: /img/losangelesst.jpg
 blurb:
-  heading: Every large street closure in Downtown Los Angeles.
+  heading: ' Downtown Los Angeles.'
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
