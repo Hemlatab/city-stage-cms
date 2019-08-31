@@ -6,7 +6,7 @@ blurb:
   heading: ' Our Vision'
   text: Supporting organizations that experiment with repurposing city streets.
 intro:
-  heading: Finding new users for city streets.
+  heading: What we do
   text: Finding new users for city streets.
 products:
   - image: img/illustrations-coffee.svg
